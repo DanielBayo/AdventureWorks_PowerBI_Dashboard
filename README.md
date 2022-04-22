@@ -21,8 +21,7 @@ targeting.
 
 The dataset is called Adventure works and is provided on Kaggle for public use. The link to the dataset is shown 
 below:
-
-[Kaggle](https://www.kaggle.com/ukveteran/adventure-works?select=AdventureWorks_Customers.csv.)
+Data Source: [Kaggle](https://www.kaggle.com/ukveteran/adventure-works?select=AdventureWorks_Customers.csv.)
 
 Microsoft power BI was adopted to solve these problems. The data was imported and first transformed in the power query, for instance the yearly sales were in separate files and needed to be appended. Additional columns were also created on the date table such as Month, month name, year etc. After making necessary transformation 
 the data was modelled using by connecting the dimension tables to the facts table in other to form a star schema. The data was then analyzed and visualized to address the business problems. Please see each of the figures to further understand the analysis.
